@@ -3,7 +3,7 @@ zotero-network-graph
 
 Network-style visualization for Zotero collections.
 
-The Zotero features that have influenced my current idea include:
+The Zotero features that have influenced the current idea include:
 
 - the Timelines feature for visualizing Zotero items over time, and
 - the Related window that allows one to arbitrarily map individual Zotero items to other Zotero items.
